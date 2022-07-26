@@ -12,6 +12,7 @@ public class PassTheClass {
         fizik=scanner.nextInt();
         kimya=scanner.nextInt();
         muzik=scanner.nextInt();
+        scanner.close();
 
         average=(mat + fizik + turkce + kimya + muzik
 
